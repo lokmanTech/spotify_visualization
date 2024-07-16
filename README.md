@@ -5,7 +5,7 @@ Upon completing end-to-end data engineering process, the most important part is 
 ## Visualization Spotify data
 You can view completed powerBI for visualizing the data from raw data.
 
-[Click here](240716-SPOTIFY-DATA VISUALIZATION-LH.pbix) to view powerBI file
+[Click here](https://github.com/lokmanTech/spotify_visualization/blob/16b17e75a716b4912a3f299e38044f6aaa9dc410/240716-SPOTIFY-DATA%20VISUALIZATION-LH.pbix) to view powerBI file
 
 below is the visualization of the data
 
